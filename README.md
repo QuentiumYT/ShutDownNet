@@ -11,11 +11,11 @@
 
 >#### Shutdown a computer of your network by writing it ID (can combine with ScanAllNet).
 <br>
-![](https://quentium.fr/programs/Github/ScanAllNet.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/ScanAllNet.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/ShutDownNet/archive/master.zip) and run `ShutDownNet.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/ShutDownNet/archive/master.zip) and run `ShutDownNet.pyw` on your computer (no specific module required)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=ShutDownNet.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=ShutDownNet-32.exe)!
 
